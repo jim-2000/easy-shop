@@ -5,9 +5,6 @@
 
 ### `Frontend Website`
 [website](https://easyshopjim.netlify.app/)
-
-### `Admin Panel`
-[Admin](https://easyshopadminjim.netlify.app/)
 -------------------------------
 
 <table style="padding:10px">
