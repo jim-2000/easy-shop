@@ -1,8 +1,11 @@
-# EASY-SHOP
+# EASY-SHOP 
+[link](https://easyshopjim.netlify.app/)
+ 
 
 ## This a Full stack  E-commerce Project with Mobile Application.
 
-## `[Frontend Website]:(https://easyshopjim.netlify.app/)`
+### `Frontend Website`
+-------------------------------
 
 <table style="padding:10px">
   <tr>
@@ -79,7 +82,6 @@
         <img src="./screenshots/cashon.png" alt="3"  width = 200px height = 300px>
     </td>
   </tr>
-<h1> Mobile view </h1>
   <tr>
     <td>
         <p>Cart Mobile View</p>
