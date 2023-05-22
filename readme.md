@@ -2,7 +2,7 @@
 
 ## This a Full stack  E-commerce Project with Mobile Application.
 
-## `Frontend Website`
+## `[Frontend Website]:(https://easyshopjim.netlify.app/)`
 
 <table style="padding:10px">
   <tr>
@@ -18,13 +18,13 @@
         <p>Forgot Password</p>
         <img src="./screenshots/forgot.png" alt="3" width = 280px height = 280px>
     </td>
-  </tr>
-
-  <tr>
     <td>
         <p>Otp Page</p>
         <img src="./screenshots/otp.png" alt="3" width = 280px height = 280px>
     </td>
+  </tr>
+
+  <tr>
     <td>
         <p>reset Password</p>
         <img src="./screenshots/reset.png" alt="3" width = 280px height = 280px>
@@ -37,6 +37,9 @@
         <p>Shop Page</p>
         <img src="./screenshots/shop.png" alt="3" width = 280px height = 280px>
     </td>
-    
+    <td>
+        <p>Product Details Page</p>
+        <img src="./screenshots/details_product.png" alt="3" width = 280px height = 280px>
+    </td>
   </tr>
 </table>
