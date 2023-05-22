@@ -1,10 +1,10 @@
 # EASY-SHOP 
-[link](https://easyshopjim.netlify.app/)
  
 
 ## This a Full stack  E-commerce Project with Mobile Application.
 
 ### `Frontend Website`
+[website](https://easyshopjim.netlify.app/)
 -------------------------------
 
 <table style="padding:10px">
@@ -98,6 +98,71 @@
     <td>
         <p>Search Mobile View</p>
         <img src="./screenshots/search_mobile.png" alt="3" width = 200px height = 300px>
+    </td>
+  </tr>
+
+</table>
+
+### `Admin Panel`
+[Admin](https://easyshopadminjim.netlify.app/)
+
+<table style="padding:10px">
+
+
+  <tr>
+    <td> 
+        <p>Admin</p>
+        <img src="./screenshots/admin/admin_home.png"  alt="1"  width = 200px height = 300px>
+    </td>      
+    <td>
+        <p>Product Page</p>
+        <img src="./screenshots/admin/admin_product.png" align="right" alt="2" width = 200px height = 300px>
+    </td>
+    <td>
+        <p>Add new Product</p>
+        <img src="./screenshots/admin/admin_add_product.png" alt="3"  width = 200px height = 300px>
+    </td>
+    <td>
+        <p>User Page</p>
+        <img src="./screenshots/admin/admin_user.png" alt="3"  width = 200px height = 300px>
+    </td>
+  </tr>
+ 
+ <tr>
+    <td> 
+        <p>Catagori</p>
+        <img src="./screenshots/admin/admin_catagori.png"  alt="1"  width = 200px height = 300px>
+    </td>      
+    <td>
+        <p>Add New Catagori</p>
+        <img src="./screenshots/admin/admin_add_catagori.png" align="right" alt="2" width = 200px height = 300px>
+    </td>
+    <td>
+        <p>Catagori base Product</p>
+        <img src="./screenshots/admin/admin_cata_product.png" alt="3"  width = 200px height = 300px>
+    </td>
+    <td>
+        <p>Product Details </p>
+        <img src="./screenshots/admin/admin_details_product.png" alt="3"  width = 200px height = 300px>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td> 
+        <p>Order</p>
+        <img src="./screenshots/admin/admin_order.png"  alt="1"  width = 200px height = 300px>
+    </td>      
+    <td>
+        <p>Order Detials</p>
+        <img src="./screenshots/admin/admin_order_details.png" align="right" alt="2" width = 200px height = 300px>
+    </td>
+    <td>
+        <p>Confirm Order</p>
+        <img src="./screenshots/admin/admin_confirm_order.png" alt="3"  width = 200px height = 300px>
+    </td>
+    <td>
+        <p>Login Admin </p>
+        <img src="./screenshots/login.png" alt="3"  width = 200px height = 300px>
     </td>
   </tr>
 
